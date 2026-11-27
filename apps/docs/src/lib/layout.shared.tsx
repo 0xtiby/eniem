@@ -49,9 +49,9 @@ export function baseOptions(): BaseLayoutProps {
       },
       {
         text: 'GitHub',
-        url: 'https://github.com/eniem-dev/eniem-boilerplate',
+        url: 'https://github.com/0xtiby/eniem',
       },
     ],
-    githubUrl: 'https://github.com/eniem-dev/eniem-boilerplate',
+    githubUrl: 'https://github.com/0xtiby/eniem',
   };
 }
